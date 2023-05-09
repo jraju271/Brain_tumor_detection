@@ -1,2 +1,2 @@
 # Brain_tumor_detection
-Brain tumor detection/segmentation using deeper CNN
+Brain tumor identification and classification using enhanced CNN
